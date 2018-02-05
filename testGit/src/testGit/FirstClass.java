@@ -7,6 +7,7 @@ public class FirstClass {
          System.out.println("This is the first class");
          System.out.println("And now I did a change");
          System.out.println("And now I did another change");
+         System.out.println("And now I did another 2 change");
 	}
 
 }
